@@ -7,7 +7,7 @@ To start using Rust I did a simple guessing game and the purpose of this game is
 This is also awesome because we can use this code to guess words too. This is my first program in Rust and I was able to learn basic things for
 the future.  
 
-Software Demo Video: https://youtu.be/M4KqXkR2dPs
+Software Demo Video: https://youtu.be/dYuOqSh3MPk
 
 # Development Environment
 
